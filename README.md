@@ -17,13 +17,13 @@
 
 ### The journey
 
-From **Nepal** to **Australia** — I care about continuous growth, premium digital experiences, and the evolving web. I started in software in **2021** with frontend and modern UI engineering, then grew into **fullstack** applications. I moved to Australia in **June 2024**.
+From **Nepal** to **Australia**. I care about continuous growth, premium digital experiences, and the evolving web. I started in software in **2021** with frontend and modern UI engineering, then grew into **fullstack** applications. I moved to Australia in **June 2024**.
 
 I’m pursuing a **Master’s in IT**, mixing academic depth with shipping real software.
 
 ### Now
 
-**Intern @ QX Tech** — refining craft, building robust UIs, and learning scalable production code.
+**Intern @ QX Tech** - refining craft, building robust UIs, and learning scalable production code.
 
 ### Stack
 
