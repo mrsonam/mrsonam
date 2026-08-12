@@ -19,11 +19,11 @@
 
 From **Nepal** to **Australia**. I care about continuous growth, premium digital experiences, and the evolving web. I started in software in **2021** with frontend and modern UI engineering, then grew into **fullstack** applications. I moved to Australia in **June 2024**.
 
-I’m pursuing a **Master’s in IT**, mixing academic depth with shipping real software.
+I’ve completed my **Master’s in IT**, blending that academic foundation with hands-on, real-world technical execution.
 
 ### Now
 
-**Intern @ QX Tech** - refining craft, building robust UIs, and learning scalable production code.
+**Master’s Graduate** — technical foundations strengthened and ready for production-grade engineering. **Available for roles** where I can architect robust UIs and scalable production code.
 
 ### Stack
 
