@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mrsonam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mrsonam.vercel.app-8B0000?style=flat-square&labelColor=0a0a0a" alt="Portfolio" /></a>
+  <a href="https://sonamsherpa.dev"><img src="https://img.shields.io/badge/Portfolio-sonamsherpa.dev-8B0000?style=flat-square&labelColor=0a0a0a" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mrsonam/"><img src="https://img.shields.io/badge/LinkedIn-Sonam_Wangdi_Sherpa-0a0a0a?style=flat-square&labelColor=F5F5F0&color=0a0a0a" alt="LinkedIn" /></a>
   <a href="mailto:sonamsrp8@gmail.com"><img src="https://img.shields.io/badge/Email-sonamsrp8%40gmail.com-0a0a0a?style=flat-square&labelColor=c6c6c6&color=F5F5F0" alt="Email" /></a>
 </p>
